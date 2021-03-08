@@ -1,0 +1,9 @@
+rover instructions
+
+Please enter the starting position/location of each rover in the starting postion input field then,
+click the move, left and right buttons to generate the input(movement) commands and direction into the command input field (the vector the rover needs to travel in)
+4 hit the execute button for the rover to execute the commands and respond accordingly.
+
+
+please note:
+ The project can also be done entirely using functional components only with react useState hooks rather than classical set state and state as well as class components but for lack of time, this will do.
